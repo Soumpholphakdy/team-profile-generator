@@ -7,9 +7,10 @@ This team profile generator can be used to create a team. When initiated, a seri
 ## Demo
 
 
+
 ## Prerequisites and Install
 
-npm >= v8.15.1
+npm >= v8.15.1,<br>
 node = v16
 
 inquirer
@@ -22,7 +23,7 @@ jest
 
 ## Usage
 
-Generate a webpage that will display team members profile with the provided information. 
+Generate a webpage that will display team members profile with their provided information. 
 
 ## Questions
 
