@@ -6,7 +6,7 @@ This team profile generator can be used to create a team. When initiated, a seri
 
 ## Demo
 
-
+https://user-images.githubusercontent.com/117963379/235527277-b92210d4-53d8-4bc3-9100-6b266d57f30f.mp4
 
 ## Prerequisites and Install
 
