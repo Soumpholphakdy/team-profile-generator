@@ -136,7 +136,7 @@ const internQuestions = () => {
 }
 
 const createTeam = () => {
-    fs.writeFile('./dist/team.html', htmlGenerator(teamArray), (err) =>
+    fs.writeFile('./dist/index.html', htmlGenerator(teamArray), (err) =>
         err ? console.error(err) : console.log('Success!')
     );
 };
